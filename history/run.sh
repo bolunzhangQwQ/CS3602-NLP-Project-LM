@@ -1,0 +1,1 @@
+python scripts/slu_baseline.py --batch_size 32 --lr 1e-3 --max_epoch 100 --device 0 
